@@ -3,5 +3,6 @@
 
 int main()
 {
-    
+    printf("Escribe el numero 1:");
+    scanf("%i",&n);
 }
